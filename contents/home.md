@@ -3,7 +3,7 @@
 ### 👤 About me
 
 I am Yuhan Zhang, an undergraduate student majoring in Automation at the College of Electrical Engineering, Zhejiang University (Hangzhou, China).  
-My research interests lie in online learning, bandits, and causal inference. I am eager to deepen my understanding and contribute to advancements in these areas through study and research.
+My research interests lie in online learning, bandits and causal inference. I am eager to deepen my understanding and contribute to advancements in these areas through study and research.
 
 ---
 
@@ -46,7 +46,7 @@ Designed and implemented a RAG system for study abroad application assistance. B
 
 ### 🏅 Awards
 
-**Third-Class Scholarship, Zhejiang University:** *2025*  
+**Third-Class Scholarship, Zhejiang University:** *2024,2025*  
 **Kinlead Scholarship, Zhejiang University:** *2025*  
-**Third-Class Scholarship, Zhejiang University:** *2024*
+
 
