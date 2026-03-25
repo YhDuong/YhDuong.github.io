@@ -46,7 +46,7 @@ Designed and implemented a RAG system for study abroad application assistance. B
 
 ### 🏅 Awards
 
-**Third-Class Scholarship, Zhejiang University:** *2024,2025*  
+**Third-Class Scholarship, Zhejiang University:** *2024, 2025*  
 **Kinlead Scholarship, Zhejiang University:** *2025*  
 
 
